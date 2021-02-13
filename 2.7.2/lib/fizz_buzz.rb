@@ -6,6 +6,7 @@ def fizz_buzz(num)
   p num.to_s
 end
 
+fizz_buzz(1)
 fizz_buzz(2)
 fizz_buzz(3)
 fizz_buzz(4)
